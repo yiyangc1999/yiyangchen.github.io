@@ -10,7 +10,7 @@
       <p><b><a href="cv_YiyangChen.pdf">CV</a> </b></p>
      </td>
        <td width="25%">
-         <img src="IMG_YiyangChen.jpg" width="100%" />
+         <img src="IMG_YiyangChen.jpg" width="50%" />
        </td>
        </tr>
 </table>
@@ -36,8 +36,8 @@ Department of Biophysics, Supervisor: [Qiong Yang](http://www-personal.umich.edu
 
 <table>
     <tr>
-        <td><center><img width=500 src="Tbx16.jpg" />One-color immunofluorescence for Tbx16(red) </center></td>
-        <td><center><img width=500 src="Tbx16andNtla.jpg"  />Two-color immunofluorescence for Tbx16(red) and Ntla(blue)</center></td>
+        <td><center><img src="Tbx16.jpg" />One-color immunofluorescence for Tbx16(red) </center></td>
+        <td><center><img src="Tbx16andNtla.jpg"  />Two-color immunofluorescence for Tbx16(red) and Ntla(blue)</center></td>
     </tr>
 
 </table>
