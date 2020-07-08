@@ -129,9 +129,9 @@ Project: ***Light Transmission in Sub-wavelength Dielectric Waveguide***, Superv
 
 
 ## ACADEMIC ACTIVITIES
-**Medical Physics Summer School**, <font color=blue>Duke Kunshan University(DKU)</font>, 08/09/2020-08/14/2020
+**Medical Physics Summer School**, Duke Kunshan University(DKU), 08/09/2020-08/14/2020
 
-**The Physics of Life Online Summer School**, <font color=blue>Princeton University</font>, 06/15/2020-08/03/2020, [Webpage](https://biophysics.princeton.edu/cpbfsummerschool2020)
+**The Physics of Life Online Summer School**, Princeton University, 06/15/2020-08/03/2020, [Webpage](https://biophysics.princeton.edu/cpbfsummerschool2020)
 
 
 
