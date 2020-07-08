@@ -10,7 +10,7 @@
       <p><b><a href="cv_YiyangChen.pdf">CV</a> </b></p>
      </td>
        <td width="25%">
-         <img src="IMG_YiyangChen.jpg" width=7 height=7 />
+         <img src="IMG_YiyangChen.jpg" >
        </td>
        </tr>
 </table>
@@ -47,17 +47,17 @@ Z-stack images:
 
 <table>
    <tr>
-        <td><center><img height=120 width=120 src="tbx16-1.gif" />Tbx16</center></td>
-        <td><center><img height=120 width=120 src="overlap-1.gif" />Overlapped with bright field</center></td>
+        <td><center><img src="tbx16-1.gif" />Tbx16</center></td>
+        <td><center><img src="overlap-1.gif" />Overlapped with bright field</center></td>
     </tr>
   
   </table>
   
 <table>
   <tr>
-        <td><center><img height=120 width=120 src="tbx16-2.gif" />Tbx16</center></td>
-        <td><center><img height=120 width=120 src="Ntla-2.gif" />Ntla</center></td>
-        <td><center><img height=120 width=120 src="overlap-2.gif" />Overlapped with bright field</center></td>
+        <td><center><img src="tbx16-2.gif" />Tbx16</center></td>
+        <td><center><img src="Ntla-2.gif" />Ntla</center></td>
+        <td><center><img src="overlap-2.gif" />Overlapped with bright field</center></td>
     </tr>
   
   </table>
