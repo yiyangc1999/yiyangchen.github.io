@@ -10,7 +10,7 @@
       <p><b><a href="cv_YiyangChen.pdf">CV</a> </b></p>
      </td>
        <td width="25%">
-         <img src="IMG_YiyangChen.jpg" >
+         <img src="IMG_YiyangChen.jpg" />
        </td>
        </tr>
 </table>
