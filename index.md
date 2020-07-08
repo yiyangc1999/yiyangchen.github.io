@@ -34,13 +34,22 @@ Department of Biophysics, Supervisor: [Qiong Yang](http://www-personal.umich.edu
 - Distinguished oscillating cells in different phenotypes: PSM, Progenitor, and Somite by the common images and Z-stack images taken by confocal microscope
 - Left the images with good experiment results for lab use
 
-<table>
-    <tr>
-        <td><center><img src="Tbx16.jpg" />One-color immunofluorescence for Tbx16(red) </center></td>
-        <td><center><img src="Tbx16andNtla.jpg"  />Two-color immunofluorescence for Tbx16(red) and Ntla(blue)</center></td>
-    </tr>
 
-</table>
+<center>
+    <img src="Tbx16.jpg" width="50%" height="50%">
+    <center>One-color immunofluorescence for Tbx16(red)</center>
+</center>
+
+<br/>
+<br/>
+
+<center>
+    <img src="Tbx16andNtla.jpg" width="50%" height="50%">
+    <center>Two-color immunofluorescence for Tbx16(red) and Ntla(blue)</center>
+</center>
+
+<br/>
+<br/>
 
 Z-stack images:
 
@@ -60,6 +69,9 @@ Z-stack images:
     </tr>
   
   </table>
+  
+  <br/>
+  <br/>
   
   Poster about this research work is published on **2020 APS March Meeting** [<a href="poster_zebrafish.pdf">pdf</a>]
   
@@ -82,10 +94,16 @@ School of Physics, Supervisor: [Leiting Pan](http://panltlab.org/)
     <center>Human RBCs of different life stages travel through the meandering channel: the difference of speeds shows the influence of RBC aging process to deformability decrease</center>
 </center>
 
+ <br/>
+ <br/>
+
 <center>
     <img src="MicrofluidicRatchets.jpg" width="50%" height="50%">
     <center>Schematic of Microfluidic Ratchets</center>
 </center>
+
+ <br/>
+ <br/>
 
 Poster about this research work is posted as a course task of  **Training of Research Ability Ⅲ** [<a href="poster_microfluidics.pdf">pdf</a>]
 
