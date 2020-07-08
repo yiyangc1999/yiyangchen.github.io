@@ -34,12 +34,11 @@ Department of Biophysics, Supervisor: [Qiong Yang](http://www-personal.umich.edu
 - Distinguished oscillating cells in different phenotypes: PSM, Progenitor, and Somite by the common images and Z-stack images taken by confocal microscope
 - Left the images with good experiment results for lab use
 
-<table>
-    <tr>
-        <td><center><img width=500 src="Tbx16.jpg" />One-color immunofluorescence for Tbx16</center></td>
-        <td><center><img width=500 src="Tbx16andNtla.jpg" />Two-color immunofluorescence for Tbx16 and Ntla</center></td>
-    </tr>
 
+<figure class="half">
+        One-color immunofluorescence for Tbx16(red)<img width=500 src="Tbx16.jpg" />Two-color immunofluorescence for Tbx16(red) and Ntla(blue)<img width=500 src="Tbx16andNtla.jpg" />
+  </figure>
+        
 
 </table>
 
