@@ -10,7 +10,7 @@
       <p><b><a href="cv_YiyangChen.pdf">CV</a> </b></p>
      </td>
        <td width="25%">
-         <img src="IMG_YiyangChen.jpg" width="50%" />
+         <img src="IMG_YiyangChen.jpg" width="100%" />
        </td>
        </tr>
 </table>
@@ -90,7 +90,7 @@ School of Physics, Supervisor: [Leiting Pan](http://panltlab.org/)
 - Revised and designed the microfluidic ratchet chip to complete the cell sorting
 
 <center>
-    <img src="TravelingRBC.jpg" width="50%" height="50%">
+    <img src="TravelingRBC.jpg" width="100%" height="100%">
     <center>Human RBCs of different life stages travel through the meandering channel: the difference of speeds shows the influence of RBC aging process to deformability decrease</center>
 </center>
 
@@ -98,7 +98,7 @@ School of Physics, Supervisor: [Leiting Pan](http://panltlab.org/)
  <br/>
 
 <center>
-    <img src="MicrofluidicRatchets.jpg" width="50%" height="50%">
+    <img src="MicrofluidicRatchets.jpg" width="100%" height="100%">
     <center>Schematic of Microfluidic Ratchets</center>
 </center>
 
