@@ -36,7 +36,7 @@ Department of Biophysics, Supervisor: [Qiong Yang](http://www-personal.umich.edu
 
 
 <center>
-    <img src="Tbx16.jpg" width="50%" height="50%">
+    <img src="Tbx16.jpg" width="100%" height="100%">
     <center>One-color immunofluorescence for Tbx16(red)</center>
 </center>
 
@@ -44,7 +44,7 @@ Department of Biophysics, Supervisor: [Qiong Yang](http://www-personal.umich.edu
 <br/>
 
 <center>
-    <img src="Tbx16andNtla.jpg" width="50%" height="50%">
+    <img src="Tbx16andNtla.jpg" width="100%" height="100%">
     <center>Two-color immunofluorescence for Tbx16(red) and Ntla(blue)</center>
 </center>
 
