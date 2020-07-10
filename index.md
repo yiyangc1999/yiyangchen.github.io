@@ -5,7 +5,7 @@
       <p><b>B.S. in Physics</b></p>
       <p><b>School of Physics, Nankai University</b></p>
       <p><b>NO.94 Weijin Road, Nankai District, Tianjin, China, 300071</b></p>
-      <p><b>Email: <a href="mailto:yychen@mail.nankai.edu.cn">yychen@mail.nankai.edu.cn</a> / <a href="mailto:yiyangc@umich.edu">yiyangc@umich.edu</a> </b></p>
+      <p><b>Email: <a href="mailto:yychen@mail.nankai.edu.cn">yychen@mail.nankai.edu.cn</a>/<a href="mailto:yiyangc@umich.edu">yiyangc@umich.edu</a> </b></p>
       <p><b>Phone: (+86)18737183786 </b></p>
       <p><b><a href="cv_YiyangChen.pdf">CV</a> </b></p>
      </td>
