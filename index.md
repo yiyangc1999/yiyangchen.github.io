@@ -29,6 +29,8 @@
 
 Department of Biophysics, Supervisor: [Qiong Yang](http://www-personal.umich.edu/~qiongy/)
 
+Prof. Yang and the group members discovered from the single cell oscillation experiment results that some phenotypes of cell form autonomous oscillator while others do not. Thus, I helped to develop immunofluorescent method to distinguish the different phenotypes. What I did are listed as below:
+
 - Developed two-color immunofluorescent protocols for Ntla and Tbx16 in both zebrafish embryos and cell dispersals to identify the types of oscillating cells and non-oscillatory cells removed from the tailbud
 - Determined different experimental conditions for embryo and cell dispersion systems after continuous trails
 - Distinguished oscillating cells in different phenotypes: PSM, Progenitor, and Somite by the common images and Z-stack images taken by confocal microscope
@@ -83,6 +85,8 @@ Z-stack images:
 ***Project Leader***, *National College Students Innovation and Entrepreneurship Training Program*, 04/2019-03/2021, Tianjin, China
 
 School of Physics, Supervisor: [Leiting Pan](http://panltlab.org/)
+
+Microfluidics is also a main focus of **Prof. Leiting Pan's Biophotonics Lab**, as it may be able to give an macroscopic explanation of the RBC deformability. Previously, we only conducted deformability measuring experiments instead of sorting experiments. After sorting the RBCs in different life stages, we may image it with Stochastic Optics Reconstruction Microscopy (STORM) and give it a microscopic explanation. As the group is currently working on some projects regarding RBC lifespan, my work can complement and support the current research of the whole lab. What I did and I am doing are listed as below:
 
 - Investigated the influence of erythrocyte aging process on the deformability decrease
 - Conducted human erythrocyte deformability measuring and hydrodynamic cell sorting based on microfluidic channels
