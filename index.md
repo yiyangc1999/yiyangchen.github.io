@@ -17,8 +17,8 @@
 
 ## EDUCATION
 ### Nankai University, NKU
-　　B.S. in Physics (Hornors Degree), 09/2017-07/2021, GPA: 85.82/100
-
+　　B.S. in Physics (Hornors Degree), 09/2017-07/2021
+  
 　　Boling Class of Physics, supported by The Pilot Scheme of Talent Training in Basic Sciences
   
 ## RESEARCH EXPERIENCES
